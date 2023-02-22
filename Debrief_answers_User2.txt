@@ -1,0 +1,16 @@
+Var1,Var2
+1,7
+2,unsure
+3,no
+4,7
+5,not in role of leader
+6,Power
+7,7
+8,g
+9,Strongly agree
+10,Never
+11,Completely willing
+12,Strongly agree
+13,no answer
+14,no answer
+15,no answer

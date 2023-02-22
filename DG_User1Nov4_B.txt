@@ -1,0 +1,96 @@
+user1
+1
+11/04/21
+45
+Select
+
+
+Baseline control Results
+bln_start_flag
+bln_end_flag
+Baseline ctl Results
+cltblnstrt1
+cltblnstrt2
+cltblnstrt3
+Pre-Game Results
+15
+Defect
+Defect
+Defect
+
+video Started
+11:25:54
+
+
+Game Results
+11:25:14
+Stage 1 Round 1
+S1R1TAD@1.480350e+02
+S1R1CAD@1.489730e+02
+Round 2
+11:27:46
+S1R2TAA@1.530570e+02
+S1R2CAA@1.564400e+02
+Round 3
+11:27:54
+S1R3TAP@1.983100e+02
+S1R3CAP@2.010650e+02
+Round 4
+11:28:38
+S1R4TAP@2.735520e+02
+S1R4CAP@2.841900e+02
+
+Total Leader Points
+430
+Total Employee Points
+260
+
+Stage 2
+11:29:58
+Round 1
+11:29:58
+S2R1TAD@3.689340e+02
+S2R1CAD@3.696360e+02
+Round 2
+11:31:27
+S2R2TAA@3.845920e+02
+S2R2CAA@3.860180e+02
+Round 3
+11:31:43
+S2R3TAP@3.919020e+02
+S2R3CAP@3.942640e+02
+Round 4
+11:31:51
+S2R4TAP@4.009800e+02
+S2R4CAP@4.020320e+02
+
+Total Leader Points
+860
+Total Employee Points
+1160
+
+Stage 3
+11:31:56
+Round 1
+11:31:56
+S3R1TAD@6.546160e+02
+S3R1CAD@6.578250e+02
+Round 2
+11:36:15
+S3R2TAV@6.723060e+02
+S3R2CAV@6.736060e+02
+Round 3
+11:36:31
+S3R3TAA@6.801560e+02
+S3R3CAA@6.810660e+02
+Round 4
+11:36:38
+S3R4TAP@6.856550e+02
+S3R4CAP@6.871100e+02
+
+Total Leader Points
+1450
+Leader Behaviours:
+Total Employee Points
+1820
+

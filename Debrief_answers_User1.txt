@@ -1,0 +1,16 @@
+Var1,Var2
+1,1
+2,yes
+3,no
+4,1
+5,no
+6,Power
+7,5
+8,c
+9,Strongly disagree
+10,Very much
+11,Totally unwilling
+12,Strongly disagree
+13,Strongly disagree
+14,Never
+15,Totally unwilling
